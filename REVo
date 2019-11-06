@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1> REVo </h1>
+    <h2> Relearn the REVolutionary war! </h1>
+    <br>
+    <br>
+    <div class="description">
+      <p> REVo is an educational social studies game based on the HMH US History cirriculum!<br>
+      <br>
+      REVo, currently, can only be downloaded via the Android package through the link <a href="">here</a>.
+    </div>
+    <div class="version">
+      <h2> Current Version </h2>
+      <h4> v1.0 alpha 1 </h4>
+    </div>
+  </body>
+</html>
